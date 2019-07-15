@@ -1,5 +1,5 @@
 /*
-ajax请求函数模块
+ajax请求函数模块,封装ajax请求函数
  */
 import axios from 'axios'
 
